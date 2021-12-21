@@ -1,0 +1,358 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DRV8876-SSOP_DRV8876PWPR
+#
+DEF DRV8876-SSOP_DRV8876PWPR U 0 10 Y Y 1 L N
+F0 "U" 0 100 60 H V C CNN
+F1 "DRV8876-SSOP_DRV8876PWPR" 0 0 60 H V C CNN
+F2 "PWP0016J_N" 0 -60 60 H I C CNN
+F3 "" 0 0 60 H V C CNN
+$FPLIST
+ PWP0016J_N
+ PWP0016J_M
+ PWP0016J_L
+ PWP0016J_NV
+$ENDFPLIST
+DRAW
+P 2 1 1 8 -600 -1300 600 -1300 N
+P 2 1 1 8 -600 1300 -600 -1300 N
+P 2 1 1 8 600 -1300 600 1300 N
+P 2 1 1 8 600 1300 -600 1300 N
+X EN_IN1 1 -800 400 200 R 59 59 1 1 I
+X OUT2 10 800 500 200 L 59 59 1 1 O
+X VM 11 -800 1100 200 R 59 59 1 1 W
+X VCP 12 -800 800 200 R 59 59 1 1 W
+X CPH 13 800 -100 200 L 59 59 1 1 W
+X CPL 14 800 -400 200 L 59 59 1 1 W
+X GND 15 800 -1100 200 L 59 59 1 1 W
+X PMODE 16 -800 -1000 200 R 59 59 1 1 I
+X PAD 17 800 -1000 200 L 59 59 1 1 W
+X PH_IN2 2 -800 200 200 R 59 59 1 1 I
+X SLEEP_N 3 -800 0 200 R 59 59 1 1 I
+X FAULT_N 4 -800 -200 200 R 59 59 1 1 C
+X VREF 5 -800 -400 200 R 59 59 1 1 W
+X IPROPI 6 -800 -600 200 R 59 59 1 1 O
+X IMODE 7 -800 -800 200 R 59 59 1 1 I
+X OUT1 8 800 1100 200 L 59 59 1 1 O
+X PGND 9 800 800 200 L 59 59 1 1 W
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_+24V-power-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_+24V-power-Motor_Board-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "Motor_Board-rescue_+24V-power-Motor_Board-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +24V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_+3.3V-power-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_+3.3V-power-Motor_Board-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "Motor_Board-rescue_+3.3V-power-Motor_Board-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_+5V-power-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_+5V-power-Motor_Board-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "Motor_Board-rescue_+5V-power-Motor_Board-rescue" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_C_Small-Device-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_C_Small-Device-Motor_Board-rescue C 0 10 N N 1 F N
+F0 "C" 10 70 50 H V L CNN
+F1 "Motor_Board-rescue_C_Small-Device-Motor_Board-rescue" 10 -80 50 H V L CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 13 -60 -20 60 -20 N
+P 2 0 1 12 -60 20 60 20 N
+X ~ 1 0 100 80 D 50 50 1 1 P
+X ~ 2 0 -100 80 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_Conn_01x10-Connector_Generic-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_Conn_01x10-Connector_Generic-Motor_Board-rescue J 0 40 Y N 1 F N
+F0 "J" 0 500 50 H V C CNN
+F1 "Motor_Board-rescue_Conn_01x10-Connector_Generic-Motor_Board-rescue" 0 -600 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -495 0 -505 1 1 6 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 405 0 395 1 1 6 N
+S -50 450 50 -550 1 1 10 f
+X Pin_1 1 -200 400 150 R 50 50 1 1 P
+X Pin_10 10 -200 -500 150 R 50 50 1 1 P
+X Pin_2 2 -200 300 150 R 50 50 1 1 P
+X Pin_3 3 -200 200 150 R 50 50 1 1 P
+X Pin_4 4 -200 100 150 R 50 50 1 1 P
+X Pin_5 5 -200 0 150 R 50 50 1 1 P
+X Pin_6 6 -200 -100 150 R 50 50 1 1 P
+X Pin_7 7 -200 -200 150 R 50 50 1 1 P
+X Pin_8 8 -200 -300 150 R 50 50 1 1 P
+X Pin_9 9 -200 -400 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_Conn_01x25-Connector_Generic-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_Conn_01x25-Connector_Generic-Motor_Board-rescue J 0 40 Y N 1 F N
+F0 "J" 0 1300 50 H V C CNN
+F1 "Motor_Board-rescue_Conn_01x25-Connector_Generic-Motor_Board-rescue" 0 -1300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -1195 0 -1205 1 1 6 N
+S -50 -1095 0 -1105 1 1 6 N
+S -50 -995 0 -1005 1 1 6 N
+S -50 -895 0 -905 1 1 6 N
+S -50 -795 0 -805 1 1 6 N
+S -50 -695 0 -705 1 1 6 N
+S -50 -595 0 -605 1 1 6 N
+S -50 -495 0 -505 1 1 6 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 405 0 395 1 1 6 N
+S -50 505 0 495 1 1 6 N
+S -50 605 0 595 1 1 6 N
+S -50 705 0 695 1 1 6 N
+S -50 805 0 795 1 1 6 N
+S -50 905 0 895 1 1 6 N
+S -50 1005 0 995 1 1 6 N
+S -50 1105 0 1095 1 1 6 N
+S -50 1205 0 1195 1 1 6 N
+S -50 1250 50 -1250 1 1 10 f
+X Pin_1 1 -200 1200 150 R 50 50 1 1 P
+X Pin_10 10 -200 300 150 R 50 50 1 1 P
+X Pin_11 11 -200 200 150 R 50 50 1 1 P
+X Pin_12 12 -200 100 150 R 50 50 1 1 P
+X Pin_13 13 -200 0 150 R 50 50 1 1 P
+X Pin_14 14 -200 -100 150 R 50 50 1 1 P
+X Pin_15 15 -200 -200 150 R 50 50 1 1 P
+X Pin_16 16 -200 -300 150 R 50 50 1 1 P
+X Pin_17 17 -200 -400 150 R 50 50 1 1 P
+X Pin_18 18 -200 -500 150 R 50 50 1 1 P
+X Pin_19 19 -200 -600 150 R 50 50 1 1 P
+X Pin_2 2 -200 1100 150 R 50 50 1 1 P
+X Pin_20 20 -200 -700 150 R 50 50 1 1 P
+X Pin_21 21 -200 -800 150 R 50 50 1 1 P
+X Pin_22 22 -200 -900 150 R 50 50 1 1 P
+X Pin_23 23 -200 -1000 150 R 50 50 1 1 P
+X Pin_24 24 -200 -1100 150 R 50 50 1 1 P
+X Pin_25 25 -200 -1200 150 R 50 50 1 1 P
+X Pin_3 3 -200 1000 150 R 50 50 1 1 P
+X Pin_4 4 -200 900 150 R 50 50 1 1 P
+X Pin_5 5 -200 800 150 R 50 50 1 1 P
+X Pin_6 6 -200 700 150 R 50 50 1 1 P
+X Pin_7 7 -200 600 150 R 50 50 1 1 P
+X Pin_8 8 -200 500 150 R 50 50 1 1 P
+X Pin_9 9 -200 400 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_DRV8876PWP-Motor_Board-Motor_Board-rescue-Motor_Board-rescue-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_DRV8876PWP-Motor_Board-Motor_Board-rescue-Motor_Board-rescue-Motor_Board-rescue U 0 40 Y Y 1 F N
+F0 "U" -400 50 50 H V C CNN
+F1 "Motor_Board-rescue_DRV8876PWP-Motor_Board-Motor_Board-rescue-Motor_Board-rescue-Motor_Board-rescue" -50 250 50 H V C CNN
+F2 "" -200 150 50 H I C CNN
+F3 "" -200 150 50 H I C CNN
+DRAW
+S -450 0 600 -700 1 1 0 f
+X nSLEEP 1 -550 -50 100 R 50 50 1 1 I
+X Vcp 10 0 100 100 D 50 50 1 1 W
+X CPH 11 200 100 100 D 50 50 1 1 W
+X CPL 12 300 100 100 D 50 50 1 1 W
+X GND 13 0 -800 100 U 50 50 1 1 W
+X PMODE 14 -550 -550 100 R 50 50 1 1 I
+X EN 15 -550 -350 100 R 50 50 1 1 I
+X PH 16 -550 -450 100 R 50 50 1 1 I
+X PAD 17 200 -800 100 U 50 50 1 1 P
+X nFAULT 2 700 -350 100 L 50 50 1 1 O
+X Vref 3 -550 -150 100 R 50 50 1 1 I
+X IPROPI 4 700 -650 100 L 50 50 1 1 O
+X IMODE 5 -100 -800 100 U 50 50 1 1 I
+X OUT1 6 700 -50 100 L 50 50 1 1 O
+X PGND 7 100 -800 100 U 50 50 1 1 W
+X OUT2 8 700 -150 100 L 50 50 1 1 O
+X Vm 9 -100 100 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_GND-power-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_GND-power-Motor_Board-rescue #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "Motor_Board-rescue_GND-power-Motor_Board-rescue" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_LED-Device-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_LED-Device-Motor_Board-rescue D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "Motor_Board-rescue_LED-Device-Motor_Board-rescue" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ LED*
+ LED_SMD:*
+ LED_THT:*
+$ENDFPLIST
+DRAW
+P 2 0 1 10 -50 -50 -50 50 N
+P 2 0 1 0 -50 0 50 0 N
+P 4 0 1 10 50 -50 50 50 -50 0 50 -50 N
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_PWR_FLAG-power-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_PWR_FLAG-power-Motor_Board-rescue #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "Motor_Board-rescue_PWR_FLAG-power-Motor_Board-rescue" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_R-Device-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_R-Device-Motor_Board-rescue R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "Motor_Board-rescue_R-Device-Motor_Board-rescue" 0 0 50 V V C CNN
+F2 "" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_TLC5940PWP-Motor_Board-Motor_Board-rescue-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_TLC5940PWP-Motor_Board-Motor_Board-rescue-Motor_Board-rescue U 0 40 Y Y 1 F N
+F0 "U" -350 -150 50 H V C CNN
+F1 "Motor_Board-rescue_TLC5940PWP-Motor_Board-Motor_Board-rescue-Motor_Board-rescue" 300 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 400 -250 -400 -1850 0 1 0 f
+X GND 1 0 -1950 100 U 50 50 1 1 W
+X OUT3 10 500 -600 100 L 50 50 1 1 O
+X OUT4 11 500 -700 100 L 50 50 1 1 O
+X OUT5 12 500 -800 100 L 50 50 1 1 O
+X OUT6 13 500 -900 100 L 50 50 1 1 O
+X OUT7 14 500 -1000 100 L 50 50 1 1 O
+X OUT8 15 500 -1100 100 L 50 50 1 1 O
+X OUT9 16 500 -1200 100 L 50 50 1 1 O
+X OUT10 17 500 -1300 100 L 50 50 1 1 O
+X OUT11 18 500 -1400 100 L 50 50 1 1 O
+X OUT12 19 500 -1500 100 L 50 50 1 1 O
+X BLANK 2 -500 -450 100 R 50 50 1 1 I
+X OUT13 20 500 -1600 100 L 50 50 1 1 O
+X OUT14 21 500 -1700 100 L 50 50 1 1 O
+X OUT15 22 500 -1800 100 L 50 50 1 1 O
+X XERR 23 -500 -1150 100 R 50 50 1 1 O
+X SOUT 24 -500 -1250 100 R 50 50 1 1 O
+X GSCLK 25 -500 -1350 100 R 50 50 1 1 I
+X DCPRG 26 -500 -1450 100 R 50 50 1 1 I
+X Iref 27 -500 -1550 100 R 50 50 1 1 W
+X Vcc 28 0 -150 100 D 50 50 1 1 W
+X PAD 29 -100 -1950 100 U 50 50 1 1 P
+X XLAT 3 -500 -550 100 R 50 50 1 1 O
+X SCLK 4 -500 -650 100 R 50 50 1 1 O
+X SIN 5 -500 -750 100 R 50 50 1 1 I
+X VPRG 6 -500 -850 100 R 50 50 1 1 I
+X OUT0 7 500 -300 100 L 50 50 1 1 O
+X OUT1 8 500 -400 100 L 50 50 1 1 O
+X OUT2 9 500 -500 100 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# Motor_Board-rescue_TLV1117LV33DCYR-Motor_Board-Motor_Board-rescue-Motor_Board-rescue
+#
+DEF Motor_Board-rescue_TLV1117LV33DCYR-Motor_Board-Motor_Board-rescue-Motor_Board-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "Motor_Board-rescue_TLV1117LV33DCYR-Motor_Board-Motor_Board-rescue-Motor_Board-rescue" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 250 -450 -250 -150 0 1 0 f
+X Vin 1 -350 -200 100 R 50 50 1 1 W
+X Vss 2 50 -550 100 U 50 50 1 1 W
+X CE 3 -350 -300 100 R 50 50 1 1 I
+X NC 4 350 -300 100 L 50 50 1 1 N N
+X Vout 5 350 -200 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Motor_Board)(type KiCad)(uri "Z:/Desktop/deco  eVOLVER KiCAD  Parallels/Motor_Board  TSSOP/Motor_Board.pretty")(options "")(descr ""))
+  (lib (name DRV8876-SSOP)(type KiCad)(uri "/Users/dacnguyen/Desktop/KiCAD | Libraries/UltraLibrarian/Sequential/ul_DRV8876PWPR/KiCAD/2021-10-10_02-54-05/footprints.pretty")(options "")(descr ""))
+)

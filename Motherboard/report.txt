@@ -1,0 +1,128 @@
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\sym-lib-table" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\sym-lib-table-2021-10-08-11-44-04".
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\Motherboard.sch" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\Motherboard-2021-10-08-11-44-04.sch".
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\power.sch" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\power-2021-10-08-11-44-04.sch".
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\Motherboard.pro" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\Motherboard-2021-10-08-11-44-04.pro".
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\Motherboard-cache.lib" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\Motherboard-cache-2021-10-08-11-44-04.lib".
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\Motherboard-rescue.lib" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\Motherboard-rescue-2021-10-08-11-44-04.lib".
+Info: Backing up file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\Motherboard-rescue.dcm" to file "\\Mac\Home\Desktop\deco  eVOLVER KiCAD  Parallels\Motherboard\rescue-backup\Motherboard-rescue-2021-10-08-11-44-04.dcm".
+Info: Adding library "Motherboard-rescue", file "${KIPRJMOD}/Motherboard-rescue.lib" to project symbol library table.
+Info: Adding library "conn", file "${KIPRJMOD}/lib/conn.lib" to project symbol library table.
+Info: Adding library "power1", file "${KIPRJMOD}/lib/power.lib" to project symbol library table.
+Info: Adding library "Motherboard", file "${KIPRJMOD}/lib/Motherboard.lib" to project symbol library table.
+Info: Adding library "device", file "${KIPRJMOD}/lib/device.lib" to project symbol library table.
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X09" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X07" mapped to symbol library "conn".
+Symbol "CONN_02X12" mapped to symbol library "conn".
+Symbol "CONN_02X12" mapped to symbol library "conn".
+Symbol "CONN_02X12" mapped to symbol library "conn".
+Symbol "CONN_02X12" mapped to symbol library "conn".
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "CONN_02X25" mapped to symbol library "conn".
+Symbol "+5V" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "C_Small" mapped to symbol library "device".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_02X03" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "DB9-M-RESCUE-Motherboard-RESCUE-Motherboard" mapped to symbol library "Motherboard-rescue".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "9_R_01X10" mapped to symbol library "Motherboard".
+Symbol "C" mapped to symbol library "device".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "C" mapped to symbol library "device".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "C" mapped to symbol library "device".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "C" mapped to symbol library "device".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "CONN_01X10" mapped to symbol library "conn".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "+5V" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "PWR_FLAG" mapped to symbol library "power1".
+Symbol "+24V" mapped to symbol library "power1".
+Symbol "+5V" mapped to symbol library "power1".
+Symbol "PWR_FLAG" mapped to symbol library "power1".
+Symbol "GND" mapped to symbol library "power1".
+Symbol "PWR_FLAG" mapped to symbol library "power1".
+Symbol "CONN_01X16" mapped to symbol library "conn".
+Info: Symbol library table mapping complete!

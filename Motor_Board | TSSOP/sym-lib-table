@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Motor_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/Motor_Board-rescue.lib)(options "")(descr ""))
+  (lib (name Motor_Board)(type Legacy)(uri ${KIPRJMOD}/Motor_Board.lib)(options "")(descr ""))
+  (lib (name DRV8876-SSOP)(type Legacy)(uri "/Users/dacnguyen/Desktop/KiCAD | Libraries/UltraLibrarian/Sequential/ul_DRV8876PWPR/KiCAD/2021-10-10_02-54-05/2021-10-10_02-54-05.lib")(options "")(descr ""))
+)

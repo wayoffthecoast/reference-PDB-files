@@ -1,0 +1,29 @@
+6383993447112
+Motor_Board
+C_0402_1005Metric_lines
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Motor_Board
+D_0402_1005Metric_lines
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Motor_Board
+HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias_SPECIAL
+16-Lead Plastic HTSSOP (4.4x5x1.2mm); Thermal pad with vias; (http://www.ti.com/lit/ds/symlink/drv8800.pdf)
+SSOP 0.65
+0
+32
+17
+Motor_Board
+R_0402_1005Metric_lines
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2

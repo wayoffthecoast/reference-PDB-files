@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name rasberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/rasberrypi_hat.lib)(options "")(descr ""))
+  (lib (name mountinghold)(type Legacy)(uri ${KIPRJMOD}/mountinghold.lib)(options "")(descr ""))
+  (lib (name mountinghole)(type Legacy)(uri ${KIPRJMOD}/mountinghole.lib)(options "")(descr ""))
+  (lib (name pi)(type Legacy)(uri ${KIPRJMOD}/pi.lib)(options "")(descr ""))
+  (lib (name Mechanical)(type Legacy)(uri ${KIPRJMOD}/Mechanical.lib)(options "")(descr ""))
+  (lib (name components)(type Legacy)(uri ${KIPRJMOD}/components.lib)(options "")(descr ""))
+)
